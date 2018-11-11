@@ -1,4 +1,4 @@
-const { unique } = require('../index');
+const { unique } = require('../src/index');
 
 const allIsNumber = arr => arr.every(item => typeof item === 'number');
 
