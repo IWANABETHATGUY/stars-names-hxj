@@ -25,9 +25,7 @@
   },
   "homepage": "https://github.com/IWANABETHATGUY/starwars-names#readme",
   "dependencies": {},
-  "peerDependencies": {
-    
-  },
+  "peerDependencies": {},
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
@@ -51,8 +49,3 @@
     }
   }
 }
-
-
-
-
-
